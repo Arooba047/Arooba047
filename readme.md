@@ -37,6 +37,15 @@
 ![Adalo](https://img.shields.io/badge/Adalo-0080FF?style=for-the-badge&logo=adalo&logoColor=white)
 
 
+## 🧩 My Automation Projects
+
+| Project | Description | Tools |
+|----------|--------------|--------|
+| [AI Automation Workflows](https://github.com/yourusername/ai-automation-workflows) | Ready-to-use n8n & Make workflows with AI | n8n, OpenAI, Make |
+| [CRM Integrations](https://github.com/yourusername/crm-integrations) | Connect HubSpot & Zoho automatically | HubSpot, Zoho, n8n |
+| [Adalo Push Notifications](https://github.com/yourusername/adalo-push-automation) | Workflow to trigger notifications via Adalo | Adalo, Xano |
+
+
 ## GitHub Stats:
 
 ### Aroooba Iqbal's GitHub Stats
