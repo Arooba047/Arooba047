@@ -1,12 +1,12 @@
 # Arooba Iqbal / README.md
 
 ## Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=aairaj&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Arooba047&style=flat-square&color=blue)
 
 ## About Me:
-🤖 I’m passionate about building AI-driven systems that blend intelligence with real-world impact.
+🤖 I’m a Software Engineer passionate about building AI-powered automation systems that bridge the gap between intelligence and efficiency.
 
-🚀 Currently working on AI automation, machine learning and deep learning projects.
+🚀 specialize in AI automation, workflow integrations, and no-code/low-code platforms like Make, Zapier, Adalo, HubSpot, and Zoho — helping businesses streamline operations through smart, automated solutions.
 
 💬 Always open to conversations about AI, automation and innovative tech ideas. I love turning complex problems into simple, smart solutions.
 
@@ -14,7 +14,7 @@
 ## Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)]() 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)]() 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-airaj-qureshi//)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arooba-iqbal-ai151521//)
 
 ## Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -40,13 +40,13 @@
 ## GitHub Stats:
 
 ### Aroooba Iqbal's GitHub Stats
-![Arooba Iqbal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arooba&show_icons=true&theme=dark&count_private=true)
+![Arooba Iqbal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arooba047&show_icons=true&theme=dark&count_private=true)
 
 ### Most Used Languages
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aairaj&theme=dark&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arooba047&theme=dark&layout=compact)
 
 ## GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aairaj&theme=darkhub)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Arooba047&theme=darkhub)
 
 ## Random Dev Quote
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
