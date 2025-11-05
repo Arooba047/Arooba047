@@ -47,6 +47,16 @@
 
 
 
+## 🚀 My Python Projects
+
+| Project | Description | Tools |
+|----------|--------------|--------|
+| [Tweet Sentimental Analysis](https://github.com/Arooba047/TweetSentimentAnalysis_ML) | Python | NLP | Matplotlib | PyTorch | Numpy | 
+| [Restaurant Website Backend](https://github.com/Arooba047/BroadwayPizzaProjectBackend) | Python | Django | 
+| [Spotify Clone](https://github.com/Arooba047/SpotifyClone) | HTML | CSS | JS | Python |
+
+
+
 ## 🌐 **Portfolio:** [aroobaiqbal.dev](https://aroobaiqbal.dev)
 
 
