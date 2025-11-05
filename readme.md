@@ -30,13 +30,17 @@
 ![n8n](https://img.shields.io/badge/n8n-EA4C89.svg?style=for-the-badge&logo=n8n&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![Make](https://img.shields.io/badge/Make-5A2FD8?style=for-the-badge&logo=make&logoColor=white)
+![Zoho](https://img.shields.io/badge/Zoho-C8202B?style=for-the-badge&logo=zoho&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
+![Adalo](https://img.shields.io/badge/Adalo-0080FF?style=for-the-badge&logo=adalo&logoColor=white)
 
 
 ## GitHub Stats:
 
 ### Aroooba Iqbal's GitHub Stats
-![Arooba Iqbal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aairaj&show_icons=true&theme=dark&count_private=true)
+![Arooba Iqbal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arooba&show_icons=true&theme=dark&count_private=true)
 
 ### Most Used Languages
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aairaj&theme=dark&layout=compact)
