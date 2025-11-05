@@ -41,9 +41,12 @@
 
 | Project | Description | Tools |
 |----------|--------------|--------|
-| [AI Automation Workflows](https://github.com/yourusername/ai-automation-workflows) | Ready-to-use n8n & Make workflows with AI | n8n, OpenAI, Make |
-| [CRM Integrations](https://github.com/yourusername/crm-integrations) | Connect HubSpot & Zoho automatically | HubSpot, Zoho, n8n |
-| [Adalo Push Notifications](https://github.com/yourusername/adalo-push-automation) | Workflow to trigger notifications via Adalo | Adalo, Xano |
+| [Automated E-mail Follow Ups](https://github.com/Arooba047/Workflow-Automation/blob/main/FullyAutomatedEmailFollowUp.json) | Ready-to-use n8n workflows with AI | n8n, OpenAI, G-Mail, Google Sheets |
+| [E-Mail Classifier](https://github.com/Arooba047/Workflow-Automation/blob/main/E-mailClassifier.json) | Connect n9n & G-mail automatically | Text Classifier, G-Mail, n8n |
+| [Voice Call Agent](https://github.com/Arooba047/Workflow-Automation/blob/main/VoiceCallAgent.json) | Workflow to trigger a voice agent via Vapi AI | Vapi AI, n8n, Google Calendar, G-Mail |
+
+
+🌐 **Portfolio:** [aroobaiqbal.dev](https://aroobaiqbal.dev)
 
 
 ## GitHub Stats:
