@@ -51,9 +51,9 @@
 
 | Project | Description | Tools |
 |----------|--------------|--------|
-| [Tweet Sentimental Analysis](https://github.com/Arooba047/TweetSentimentAnalysis_ML) | Python, NLP, Matplotlib, PyTorch, Numpy | 
-| [Restaurant Website Backend](https://github.com/Arooba047/BroadwayPizzaProjectBackend) | Python, Django | 
-| [Spotify Clone](https://github.com/Arooba047/SpotifyClone) | HTML, CSS, JS, Python |
+| [Tweet Sentimental Analysis](https://github.com/Arooba047/TweetSentimentAnalysis_ML) | Ready to use ML Project to Analyze Tweets Sentiment | Python, NLP, Matplotlib, PyTorch, Numpy | 
+| [Restaurant Website Backend](https://github.com/Arooba047/BroadwayPizzaProjectBackend) | Backend Of a Restaurant Website with Full Functionality | Python, Django | 
+| [Spotify Clone](https://github.com/Arooba047/SpotifyClone) | Spotify music Platform Clone | HTML, CSS, JS, Python |
 
 
 
